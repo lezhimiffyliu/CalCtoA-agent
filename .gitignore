@@ -1,1 +1,9 @@
+nemo-env/
+venv/
+.venv/
+nemo-agent-toolkit/
 __pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
